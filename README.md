@@ -1,4 +1,4 @@
-# 🏛️ wv legislation file tree
+# 🏛️ West Virginia legislation file tree
 
 Download a copy of your states legislation.
 
