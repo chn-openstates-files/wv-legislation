@@ -11,7 +11,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wv-2026-hb4152"
+    }
+  ],
   "actions": [
     {
       "description": "Filed for introduction",
@@ -60,6 +64,40 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:35:06Z"
       }
+    },
+    {
+      "description": "To House Higher Education",
+      "date": "2026-01-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:58Z"
+      }
+    },
+    {
+      "description": "Markup Discussion",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:58Z"
+      }
+    },
+    {
+      "description": "To House Education",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -69,6 +107,86 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Howell, T.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "White",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"White\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brooks",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brooks\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mazzocchi",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mazzocchi\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Drennan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Drennan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kyle",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kyle\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Crouse",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Crouse\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Clay",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Clay\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ferrell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ferrell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Holstein",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Holstein\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dittman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dittman\"}",
       "organization_id": null
     }
   ],
@@ -110,6 +228,6 @@
     "division_id": "ocd-division/country:us/state:wv"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:35:06Z"
+    "logs_latest_update": "2026-07-14T13:20:59Z"
   }
 }

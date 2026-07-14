@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wv-2026-sr4"
+    }
+  ],
   "actions": [
     {
       "description": "Filed for introduction",
@@ -43,6 +47,46 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-15T12:35:06Z"
+      }
+    },
+    {
+      "description": "Committee reference dispensed",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:55Z"
+      }
+    },
+    {
+      "description": "Immediate consideration",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:55Z"
+      }
+    },
+    {
+      "description": "Adopted (Roll No. 1)",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:55Z"
+      }
+    },
+    {
+      "description": "Completed legislative action",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:55Z"
       }
     }
   ],
@@ -94,6 +138,6 @@
     "division_id": "ocd-division/country:us/state:wv"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:35:06Z"
+    "logs_latest_update": "2026-07-14T13:20:58Z"
   }
 }

@@ -12,7 +12,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wv-2026-sb11"
+    }
+  ],
   "actions": [
     {
       "description": "Filed for introduction",
@@ -61,6 +65,31 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:35:06Z"
       }
+    },
+    {
+      "description": "Reported do pass, but first to Finance",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:59Z"
+      }
+    },
+    {
+      "description": "To Finance",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -78,6 +107,54 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Hamilton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Morris",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Morris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Takubo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Takubo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Grady",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Grady\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Deeds",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Deeds\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Willis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Willis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Barnhart",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Barnhart\"}",
       "organization_id": null
     }
   ],
@@ -119,6 +196,6 @@
     "division_id": "ocd-division/country:us/state:wv"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:35:06Z"
+    "logs_latest_update": "2026-07-14T13:21:00Z"
   }
 }

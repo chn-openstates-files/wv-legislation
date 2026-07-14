@@ -11,7 +11,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wv-2026-sb146"
+    }
+  ],
   "actions": [
     {
       "description": "Filed for introduction",
@@ -60,6 +64,31 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:35:06Z"
       }
+    },
+    {
+      "description": "Reported do pass, but first to Judiciary",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:54Z"
+      }
+    },
+    {
+      "description": "To Judiciary",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -69,6 +98,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Oliverio\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hamilton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hamilton\"}",
       "organization_id": null
     }
   ],
@@ -110,6 +147,6 @@
     "division_id": "ocd-division/country:us/state:wv"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:35:06Z"
+    "logs_latest_update": "2026-07-14T13:20:59Z"
   }
 }

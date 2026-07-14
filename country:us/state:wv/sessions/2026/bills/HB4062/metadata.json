@@ -11,7 +11,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wv-2026-hb4062"
+    }
+  ],
   "actions": [
     {
       "description": "Filed for introduction",
@@ -60,6 +64,40 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:35:06Z"
       }
+    },
+    {
+      "description": "To House Educational Choice",
+      "date": "2026-01-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:55Z"
+      }
+    },
+    {
+      "description": "Markup Discussion",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:55Z"
+      }
+    },
+    {
+      "description": "To House Education",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -69,6 +107,38 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Crouse\"}",
+      "organization_id": null
+    },
+    {
+      "name": "White",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"White\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mazzocchi",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mazzocchi\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Howell, T.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Howell, T.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kimble",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kimble\"}",
       "organization_id": null
     }
   ],
@@ -110,6 +180,6 @@
     "division_id": "ocd-division/country:us/state:wv"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:35:06Z"
+    "logs_latest_update": "2026-07-14T13:20:58Z"
   }
 }

@@ -11,7 +11,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wv-2026-sb170"
+    }
+  ],
   "actions": [
     {
       "description": "Filed for introduction",
@@ -56,6 +60,30 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:35:06Z"
       }
+    },
+    {
+      "description": "Without recommendation, but first to Finance",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:56Z"
+      }
+    },
+    {
+      "description": "Referred to Education then Finance",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:56Z"
+      }
     }
   ],
   "sponsorships": [
@@ -65,6 +93,30 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Rucker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Willis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Willis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rose",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rose\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bartlett",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bartlett\"}",
       "organization_id": null
     }
   ],
@@ -106,6 +158,6 @@
     "division_id": "ocd-division/country:us/state:wv"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:35:06Z"
+    "logs_latest_update": "2026-07-14T13:21:01Z"
   }
 }

@@ -11,7 +11,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wv-2026-hb4117"
+    }
+  ],
   "actions": [
     {
       "description": "Filed for introduction",
@@ -60,6 +64,18 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:35:06Z"
       }
+    },
+    {
+      "description": "To House Banking and Insurance",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:21:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -69,6 +85,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Jennings\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hott",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hott\"}",
       "organization_id": null
     }
   ],
@@ -110,6 +134,6 @@
     "division_id": "ocd-division/country:us/state:wv"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:35:06Z"
+    "logs_latest_update": "2026-07-14T13:21:01Z"
   }
 }

@@ -11,7 +11,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wv-2026-hb4080"
+    }
+  ],
   "actions": [
     {
       "description": "Filed for introduction",
@@ -59,6 +63,50 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-15T12:35:06Z"
+      }
+    },
+    {
+      "description": "To House Legal Services",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:21:01Z"
+      }
+    },
+    {
+      "description": "Markup Discussion",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:21:01Z"
+      }
+    },
+    {
+      "description": "To House Judiciary",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:21:01Z"
+      }
+    },
+    {
+      "description": "Markup Discussion",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:21:01Z"
       }
     }
   ],
@@ -126,6 +174,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Martin\"}",
       "organization_id": null
+    },
+    {
+      "name": "Funkhouser",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Funkhouser\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -166,6 +222,6 @@
     "division_id": "ocd-division/country:us/state:wv"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:35:06Z"
+    "logs_latest_update": "2026-07-14T13:21:01Z"
   }
 }

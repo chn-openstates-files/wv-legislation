@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 4191",
-  "title": "Increase the tax credit for employers providing child care for employees.",
+  "title": "Relating to providing child care generally",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -11,7 +11,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wv-2026-hb4191"
+    }
+  ],
   "actions": [
     {
       "description": "Filed for introduction",
@@ -60,6 +64,324 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:35:06Z"
       }
+    },
+    {
+      "description": "By substitute, do pass",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:54Z"
+      }
+    },
+    {
+      "description": "On 1st reading, Special Calendar",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:54Z"
+      }
+    },
+    {
+      "description": "Read 1st time",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:54Z"
+      }
+    },
+    {
+      "description": "On 2nd reading, Special Calendar",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:54Z"
+      }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:54Z"
+      }
+    },
+    {
+      "description": "On 3rd reading, Special Calendar",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:54Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:54Z"
+      }
+    },
+    {
+      "description": "Passed House (Roll No. 284)",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:54Z"
+      }
+    },
+    {
+      "description": "Effective July 1, 2026 (Roll No. 285)",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:54Z"
+      }
+    },
+    {
+      "description": "Communicated to Senate",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:54Z"
+      }
+    },
+    {
+      "description": "Introduced in Senate",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:54Z"
+      }
+    },
+    {
+      "description": "To Finance",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:54Z"
+      }
+    },
+    {
+      "description": "To Finance",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:54Z"
+      }
+    },
+    {
+      "description": "Reported do pass",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:54Z"
+      }
+    },
+    {
+      "description": "Immediate consideration",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:54Z"
+      }
+    },
+    {
+      "description": "Read 1st time",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:54Z"
+      }
+    },
+    {
+      "description": "On 2nd reading",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:54Z"
+      }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:54Z"
+      }
+    },
+    {
+      "description": "On 3rd reading",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:54Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:54Z"
+      }
+    },
+    {
+      "description": "Passed Senate (Roll No. 532)",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:54Z"
+      }
+    },
+    {
+      "description": "Effective July 1, 2026 (Roll No. 533)",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:54Z"
+      }
+    },
+    {
+      "description": "Communicated to House",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:54Z"
+      }
+    },
+    {
+      "description": "Completed legislative action",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:54Z"
+      }
+    },
+    {
+      "description": "To Governor 3/18/2026 - Senate Journal",
+      "date": "2026-03-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:54Z"
+      }
+    },
+    {
+      "description": "To Governor 3/18/2026",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:54Z"
+      }
+    },
+    {
+      "description": "Became law without Governor's signature  - Senate Journal",
+      "date": "2026-03-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:54Z"
+      }
+    },
+    {
+      "description": "Became law 4/2/2026",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:54Z"
+      }
+    },
+    {
+      "description": "Became law without Governor's signature- House Journal",
+      "date": "2026-03-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -70,10 +392,99 @@
       "primary": true,
       "person_id": "~{\"name\": \"Fehrenbacher\"}",
       "organization_id": null
+    },
+    {
+      "name": "Hall",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Funkhouser",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Funkhouser\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hott",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hott\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Howell, G.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Howell, G.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Enrolled Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=hb4191%20sub1%20enr.htm&yr=2026&sesstype=RS&i=4191",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Bill_Text_HTML/2026_SESSIONS/RS/bills/hb4191 sub1 enr.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Bill_Text_HTML/2026_SESSIONS/RS/bills/hb4191 sub1 enr.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=hb4191%20sub1%20eng.htm&yr=2026&sesstype=RS&i=4191",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Bill_Text_HTML/2026_SESSIONS/RS/bills/hb4191 sub1 eng.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Bill_Text_HTML/2026_SESSIONS/RS/bills/hb4191 sub1 eng.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=hb4191%20sub1.htm&yr=2026&sesstype=RS&i=4191",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Bill_Text_HTML/2026_SESSIONS/RS/bills/hb4191 sub1.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Bill_Text_HTML/2026_SESSIONS/RS/bills/hb4191 sub1.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Introduced Version",
       "links": [
@@ -110,6 +521,6 @@
     "division_id": "ocd-division/country:us/state:wv"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:35:06Z"
+    "logs_latest_update": "2026-07-14T13:21:01Z"
   }
 }

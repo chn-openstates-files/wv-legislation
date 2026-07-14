@@ -11,7 +11,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wv-2026-hb4036"
+    }
+  ],
   "actions": [
     {
       "description": "Filed for introduction",
@@ -60,6 +64,180 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:35:06Z"
       }
+    },
+    {
+      "description": "To House Courts",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:56Z"
+      }
+    },
+    {
+      "description": "Markup Discussion",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:56Z"
+      }
+    },
+    {
+      "description": "To House Judiciary",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:56Z"
+      }
+    },
+    {
+      "description": "Markup Discussion",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:56Z"
+      }
+    },
+    {
+      "description": "Do pass",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:56Z"
+      }
+    },
+    {
+      "description": "On 1st reading, Special Calendar",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:56Z"
+      }
+    },
+    {
+      "description": "Read 1st time",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:56Z"
+      }
+    },
+    {
+      "description": "On 2nd reading, Special Calendar",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:56Z"
+      }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:56Z"
+      }
+    },
+    {
+      "description": "On 3rd reading, Special Calendar",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:56Z"
+      }
+    },
+    {
+      "description": "Read 3rd time",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:56Z"
+      }
+    },
+    {
+      "description": "Passed House (Roll No. 34)",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:56Z"
+      }
+    },
+    {
+      "description": "Communicated to Senate",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:56Z"
+      }
+    },
+    {
+      "description": "Introduced in Senate",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:56Z"
+      }
+    },
+    {
+      "description": "To Transportation and Infrastructure then Judiciary",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:56Z"
+      }
+    },
+    {
+      "description": "To Transportation and Infrastructure",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:56Z"
+      }
     }
   ],
   "sponsorships": [
@@ -70,10 +248,37 @@
       "primary": true,
       "person_id": "~{\"name\": \"Mallow\"}",
       "organization_id": null
+    },
+    {
+      "name": "Kump",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kump\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Engrossed Version",
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=hb4036%20eng.htm&yr=2026&sesstype=RS&i=4036",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Bill_Text_HTML/2026_SESSIONS/RS/bills/hb4036 eng.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Bill_Text_HTML/2026_SESSIONS/RS/bills/hb4036 eng.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Introduced Version",
       "links": [
@@ -110,6 +315,6 @@
     "division_id": "ocd-division/country:us/state:wv"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:35:06Z"
+    "logs_latest_update": "2026-07-14T13:21:00Z"
   }
 }

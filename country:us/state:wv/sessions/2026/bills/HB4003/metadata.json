@@ -11,7 +11,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wv-2026-hb4003"
+    }
+  ],
   "actions": [
     {
       "description": "Filed for introduction",
@@ -59,6 +63,114 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-15T12:35:06Z"
+      }
+    },
+    {
+      "description": "To House Revenue",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:56Z"
+      }
+    },
+    {
+      "description": "To House Finance",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:56Z"
+      }
+    },
+    {
+      "description": "By substitute, do pass",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:56Z"
+      }
+    },
+    {
+      "description": "Immediate consideration",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:56Z"
+      }
+    },
+    {
+      "description": "Read 1st time",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:56Z"
+      }
+    },
+    {
+      "description": "On 2nd reading, Special Calendar",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:56Z"
+      }
+    },
+    {
+      "description": "Read 2nd time",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:56Z"
+      }
+    },
+    {
+      "description": "On 3rd reading, Special Calendar",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:56Z"
+      }
+    },
+    {
+      "description": "Placed on House Calendar",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:56Z"
+      }
+    },
+    {
+      "description": "On 3rd reading, House Calendar",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:56Z"
       }
     }
   ],
@@ -155,6 +267,44 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Engrossed Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=hb4003%20sub1%20eng.htm&yr=2026&sesstype=RS&i=4003",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Bill_Text_HTML/2026_SESSIONS/RS/bills/hb4003 sub1 eng.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Bill_Text_HTML/2026_SESSIONS/RS/bills/hb4003 sub1 eng.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=hb4003%20sub1.htm&yr=2026&sesstype=RS&i=4003",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Bill_Text_HTML/2026_SESSIONS/RS/bills/hb4003 sub1.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Bill_Text_HTML/2026_SESSIONS/RS/bills/hb4003 sub1.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Introduced Version",
       "links": [
         {
@@ -190,6 +340,6 @@
     "division_id": "ocd-division/country:us/state:wv"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:35:06Z"
+    "logs_latest_update": "2026-07-14T13:21:00Z"
   }
 }

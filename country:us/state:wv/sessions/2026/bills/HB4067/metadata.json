@@ -11,7 +11,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wv-2026-hb4067"
+    }
+  ],
   "actions": [
     {
       "description": "Filed for introduction",
@@ -60,6 +64,74 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:35:06Z"
       }
+    },
+    {
+      "description": "To House Human Services",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:53Z"
+      }
+    },
+    {
+      "description": "Markup Discussion",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:53Z"
+      }
+    },
+    {
+      "description": "To House Health and Human Resources",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:53Z"
+      }
+    },
+    {
+      "description": "Markup Discussion",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:53Z"
+      }
+    },
+    {
+      "description": "By substitute, do pass, but first to Finance",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:53Z"
+      }
+    },
+    {
+      "description": "To House Finance",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -70,10 +142,61 @@
       "primary": true,
       "person_id": "~{\"name\": \"Crouse\"}",
       "organization_id": null
+    },
+    {
+      "name": "Drennan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Drennan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Young",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Young\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Petitto",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Petitto\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pinson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pinson\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=hb4067%20sub1.htm&yr=2026&sesstype=RS&i=4067",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Bill_Text_HTML/2026_SESSIONS/RS/bills/hb4067 sub1.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Bill_Text_HTML/2026_SESSIONS/RS/bills/hb4067 sub1.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Introduced Version",
       "links": [
@@ -110,6 +233,6 @@
     "division_id": "ocd-division/country:us/state:wv"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:35:06Z"
+    "logs_latest_update": "2026-07-14T13:20:55Z"
   }
 }

@@ -12,7 +12,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wv-2026-sb149"
+    }
+  ],
   "actions": [
     {
       "description": "Filed for introduction",
@@ -57,6 +61,30 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:35:06Z"
       }
+    },
+    {
+      "description": "Committee substitute reported, but first to Finance",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:53Z"
+      }
+    },
+    {
+      "description": "To Finance",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:20:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -71,6 +99,25 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Committee Substitute",
+      "links": [
+        {
+          "url": "https://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=sb149%20sub1.htm&yr=2026&sesstype=RS&i=149",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Bill_Text_HTML/2026_SESSIONS/RS/bills/sb149 sub1.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.wvlegislature.gov/Bill_Text_HTML/2026_SESSIONS/RS/bills/sb149 sub1.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Introduced Version",
       "links": [
@@ -107,6 +154,6 @@
     "division_id": "ocd-division/country:us/state:wv"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:35:06Z"
+    "logs_latest_update": "2026-07-14T13:20:59Z"
   }
 }
